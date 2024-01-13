@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="btnFx">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAABAAAIAAAAACAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\btnFx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizDataScriptable">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Quiz\Scripts\QuizDataScriptable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizManager">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAABAAAAAAAAAAgiQTAAACQCAAAEgAABAI=</HashCode>
+      <FileName>Assets\Quiz\Scripts\QuizManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Question">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAAAQAEAAAAAAAACAAAEAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Quiz\Scripts\QuizManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizUi">
+    <Position X="7.75" Y="0.5" Width="1.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kUAIpkogEABxnQEglYGjQIwCAAQAkAChAAEEAQgBBUI=</HashCode>
+      <FileName>Assets\Quiz\Scripts\QuizUi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAKEAAAAQAAAAgAACAAAgEgAAAIAAAAAAAQggACAQg=</HashCode>
+      <FileName>Assets\Quiz\Scripts\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShuffleList">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Quiz\Scripts\ShuffleList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Read">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAiAAAAQAAAAAAAAEAAAAAAIAQAAAAA=</HashCode>
+      <FileName>Assets\Scoreboard\Scripts\Read.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="QuestionType">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAACCAAAAA=</HashCode>
+      <FileName>Assets\Quiz\Scripts\QuizManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameStatus">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Quiz\Scripts\QuizManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
